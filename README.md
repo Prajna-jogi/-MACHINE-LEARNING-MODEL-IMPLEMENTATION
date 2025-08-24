@@ -38,6 +38,11 @@ In conclusion, the Machine Learning Model Implementation project is a comprehens
 
 OUTPUT :
 
+<img width="790" height="682" alt="Image" src="https://github.com/user-attachments/assets/e015ac04-4eff-401c-b81f-28bb7daa706e" />
 
+
+
+
+<img width="632" height="422" alt="Image" src="https://github.com/user-attachments/assets/70a30c01-1903-4d12-9a06-583ba333f1e1" />
 
    
